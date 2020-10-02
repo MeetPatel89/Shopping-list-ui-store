@@ -1,0 +1,1 @@
+# To understand how to create a complex store object as a virtual DOM that we can modify and then render templates onto the actual DOM 
